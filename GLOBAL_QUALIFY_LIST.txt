@@ -1,6 +1,7 @@
 * implementation-defined[italic]
 * thread_local[link /lang/cpp11/thread_local_storage.md]
 * decltype(auto)[link /lang/cpp14/decltype_auto.md]
+* static_assert[link /lang/cpp11/static_assert.md]
 * <algorithm>[link /reference/algorithm.md]
     * ExecutionPolicy[link /reference/execution/execution/execution_policy.md]
     * std::copy[link /reference/algorithm/copy.md]
